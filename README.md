@@ -24,3 +24,6 @@ https://jsonplaceholder.typicode.com/posts
 https://jsonplaceholder.typicode.com/photos
 
 YOU HAVE TO USE REUSABLE COMPONENTS , REDUX , AXIOS
+
+AFTER COMPLETEING THE TASK YOU HAVE TO CREATE YOUR OWN BRANCH (YOURNAME-development) AND PUSH THE SOURCE CODE THERE.
+
