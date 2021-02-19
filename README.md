@@ -1,6 +1,6 @@
 # interview
 
-THIS APP HAS SOME ISSUES, YOU HAVE TO FIND AND FIX THEM AND THEN DO THE BLOW TASKS
+THIS APP HAS SOME ISSUES, YOU HAVE TO FIND AND FIX THEM AND THEN DO THE BELOW TASKS
 ========================================================================================================
 TASKS
 1) LOGIN , LOGOUT , DASHBOARD
