@@ -1,6 +1,8 @@
 # interview
 
-TASK
+THIS APP HAS SOME ISSUES, YOU HAVE TO FIND AND FIX THEM AND THEN DO THE BLOW TASKS
+========================================================================================================
+TASKS
 1) LOGIN , LOGOUT , DASHBOARD
 2) USERNAME : admin , PASSWORD : admin FOR USER AS ADMIN
 3) USERNAME : editor , PASSWORD : editor FOR USER AS EDITOR
